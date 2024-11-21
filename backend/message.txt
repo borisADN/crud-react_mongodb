@@ -1,0 +1,8 @@
+{
+    "_id": "66ceaaff5fc23d5adde069fb",
+    "fname": "boris",
+    "lname": "Womagno",
+    "password": "1234",
+    "date": "2024-08-28T04:43:43.716Z",
+    "__v": 0
+}
